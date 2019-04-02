@@ -1,0 +1,26 @@
+'''
+This is the document of ShanHaiQi
+Author: Tom Zhou
+Date: 1/17/2018
+'''
+
+[Author info]
+ShanHaiQi is a board game designed by Tom Zhou, the program is also written by Tom.
+
+[Brief Introduction]
+In the ShanHaiQi game, two to four players compete on the same board which consists of a number of tiny blocks, aiming either to eliminate all the opposing 'soldiers' or to take over enemy bases. The players are allowed to ally and disband at anytime they want.
+
+[Game Rules]
+#Their can be two or three or four players, each with a 3*3 base on one of the four corners of the board.
+
+#Each player possesses 5 soldiers at the start of the game.
+
+#Each soldier can be moved(and fight) or shoot, if possible, every round.
+
+#The soldiers can choose to shoot or move (and, if possible, kill other opposing soldiers to take over the land)
+
+#A soldier can climb up  or down  a cliff no more than 5 unit tall but can jump into the water no matter how deep it is.
+
+#The bullet, no matter shot by which team, can go no farther than 5 unit horizontally.The bullet can't pass through the Castle or any other obstacles that's higher then the location where the bullet is shot. No bullets can go through water.
+
+#When a soldier tries to move to a nearby location, it may face several different circumstances. If the destination is water without enemy, no matter how deep it is, just jump! If
